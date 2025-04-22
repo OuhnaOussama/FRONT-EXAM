@@ -1,2 +1,1 @@
-# FRONT-EXAM
-exam
+# mortgage-repayment-calculator
